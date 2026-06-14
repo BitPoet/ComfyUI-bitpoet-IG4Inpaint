@@ -56,3 +56,5 @@ select another image in the workflow's `Load Image` node.
 
 Put a bbox where you want your inpainting to happen and describe the change in
 the bbox's description. Do not fill in any other fields.
+
+Use "Default" or "Quality" mode. Turbo will mess up the image.
