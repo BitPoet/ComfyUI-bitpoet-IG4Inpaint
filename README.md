@@ -53,3 +53,6 @@ workflows/ideogram4_reference_workflow.json
 
 Copy `workflows/idoinpaint_reference.png` into ComfyUI's `input` folder, or
 select another image in the workflow's `Load Image` node.
+
+Put a bbox where you want your inpainting to happen and describe the change in
+the bbox's description. Do not fill in any other fields.
