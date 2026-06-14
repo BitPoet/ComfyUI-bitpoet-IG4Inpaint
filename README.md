@@ -1,7 +1,13 @@
-# bitpoet-idoinpaint
+# ComfyUI-bitpoet-IG4Inpaint
 
 ComfyUI conditioning node for reference-conditioned Ideogram 4 LoRAs trained
 with the `ideogram4_reference_conditioning_v1` sequence contract.
+
+This enables inpainting with the Ideogram 4 model.
+
+## Status
+
+This is an alpha release. Use at your own risk.
 
 ## Requirements
 
