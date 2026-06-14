@@ -21,6 +21,9 @@ The reference uses indicator `4`, relative MRoPE time coordinate `1`, and an
 Ideogram model timestep of `1.0`. Only output-token predictions are returned to
 the sampler.
 
+A ComfyUI clone with the changes can be found at my clone of the repo in the
+[dev-ideogram4-inpaint](https://github.com/BitPoet/ComfyUI/tree/dev-ideogram4-inpaint) branch.
+
 ## Node
 
 `Ideogram 4 Reference Conditioning` accepts:
